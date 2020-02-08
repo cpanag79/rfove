@@ -1,4 +1,4 @@
-# rfove - Region-based Fitting of Overlapping Ellipses and its 
+# RFOVE - Region-based Fitting of Overlapping Ellipses and its 
 # Application to Cells Segmentation
 
 
