@@ -1,5 +1,4 @@
-# RFOVE - Region-based Fitting of Overlapping Ellipses and its 
-# Application to Cells Segmentation
+# RFOVE - Region-based Fitting of Overlapping Ellipses - Cells Segmentation
 
 
 This code is a simple  implementation of METHOD RFOVE PROPOSED IN [1] 
